@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Cipher</RootNamespace>
     <AssemblyName>Cipher</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -40,12 +40,17 @@
     <Reference Include="Common">
       <HintPath>..\Common\bin\Debug\Common.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.BonusSkins.v17.1" />
-    <Reference Include="DevExpress.Data.v17.1" />
-    <Reference Include="DevExpress.Utils.v17.1" />
-    <Reference Include="DevExpress.Sparkline.v17.1.Core" />
-    <Reference Include="DevExpress.XtraEditors.v17.1" />
-    <Reference Include="DevExpress.Printing.v17.1.Core" />
+    <Reference Include="DevExpress.BonusSkins.v24.1" />
+    <Reference Include="DevExpress.Drawing.v24.1" />
+    <Reference Include="DevExpress.Data.v24.1" />
+    <Reference Include="DevExpress.Data.Desktop.v24.1" />
+    <Reference Include="DevExpress.Utils.v24.1" />
+    <Reference Include="DevExpress.Sparkline.v24.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v24.1" />
+    <Reference Include="DevExpress.Office.v24.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v24.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v24.1.Export" />
+    <Reference Include="DevExpress.Printing.v24.1.Core" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
